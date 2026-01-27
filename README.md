@@ -12,7 +12,10 @@
 
 <!-- SOCIAL LINKS -->
 <p>
-<a href="https://linkedin.com/in/saibabavelugolu4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:saibabavelugolu4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+<a href="https://linkedin.com/in/saibabavelugolu4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:saibabavelugolu4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.youtube.com/@naveenautomationlabs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.naveenautomationlabs.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a> 
 </p>
 
 </div>
@@ -30,8 +33,6 @@
 🤝 I’m looking for help with expanding automation coverage using n8n and improving CI/CD test efficiency.
 
 💬 Ask me about Selenium, JAVA, JavaScript, Cypress, POSTMAN, Rest Assured
-
-📫 How to reach me: saibabavelugolu4@gmail.com
 
 ⚡ Fun fact: If I am not testing, then I am probably playing games with my friends
 
@@ -58,7 +59,9 @@
 <img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" alt="browserstack"/>
 <img src="https://img.shields.io/badge/LambdaTest-0089CF?style=for-the-badge&logo=lambdatest&logoColor=white" alt="lambdatest"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter"/>
+<img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="swagger"/>
 <img src="https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white" alt="appium"/>
+
 </div>
 
 </td>
@@ -75,6 +78,9 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+
 </div>
 
 </td>
