@@ -96,7 +96,6 @@ alt="Gmail"/></a>
 ---
 
 ## 📂 Automation Framework Highlights
-
 <img align="right" width="280" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 ✅ Java + Selenium WebDriver  
@@ -111,7 +110,6 @@ alt="Gmail"/></a>
 ---
 
 ## 🤝 Connect With Me
-
 <p align="center">
 <a href="https://linkedin.com/in/saibabavelugolu4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
 alt="LinkedIn"/></a>
@@ -124,5 +122,4 @@ alt="Gmail"/></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
 
 **⭐Testing is not about finding bugs, it’s about preventing them.❤️**
-
 </div>
