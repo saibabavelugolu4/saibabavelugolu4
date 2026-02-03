@@ -21,13 +21,20 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🔹 **4+ years of hands-on experience** in Manual & Automation Testing  
-🔹 Strong understanding of **SDLC & STLC**  
-🔹 Expertise in **functional, regression, smoke, sanity & system testing**  
-🔹 Passionate about **automation frameworks & CI/CD pipelines**  
-🔹 Experience working in **Agile/Scrum environments**
+- **4+ years of hands-on experience** in Manual and Automation Testing of Web & API applications.
+- Strong understanding of **SDLC & STLC**  
+- Expertise in **functional, regression, smoke, sanity, Integration & system testing** 
+- Specialized in **Selenium WebDriver, Java, TestNG, Maven**
+- Passionate about **automation frameworks & CI/CD pipelines**  
+- Experience working in **Agile/Scrum environments**
+- Framework development (POM, Data-Driven, Hybrid)
+- Azure DevOps for Test Management & Defect Tracking & Root Cause Analysis  
+- API Testing (Postman, REST Assured, SOAP UI)
+- Test Frameworks (TestNG, JUnit, Cucumber)
+
+Currently working at **Vedhas Technology Solutions Pvt Ltd**, contributing to high-quality, scalable, and reliable software for US and Indian clients.
 
 💬 *I believe quality is not tested in — it’s built in.*
 
@@ -93,17 +100,65 @@
 
 ---
 
+## 📂 Projects
+
+🚗 Project 1: Lever Auto (Loan Management System)
+
+- Developed Selenium Automation Framework from Scratch (Java + Selenium + TestNG + Maven)
+- Implemented POM & Data Driven Framework
+- Integrated CI/CD using Jenkins
+- Performed Cross-Browser Testing
+- Automated Regression Suites
+- Worked in Agile Scrum Environment
+- Extent Reports & Log4j
+
+🏗 Project 2: Amplify Infra
+
+- Performed End-to-End Manual Testing
+- Conducted Backend Testing using SQL
+- Managed Test Execution via Azure DevOps
+- Participated in UAT & Defect Management
+
+❤️ Project 3: MSR Charitable Trust
+
+- Functional, Regression & UI Testing
+- Database Validation Testing
+- Prepared Test Reports & Status Reports
+
+---
+
 ## 📂 Automation Framework Highlights
 <img align="right" width="280" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
-✅ Java + Selenium WebDriver  
-✅ TestNG for test execution  
-✅ Maven for Dependency Management  
-✅ Page Object Model (POM)  
-✅ Jenkins for CI/CD  
-✅ Detailed Extent / HTML Test Reports  
+- Java + Selenium WebDriver  
+- TestNG for test execution  
+- Maven for Dependency Management  
+- Page Object Model (POM)  
+- Jenkins for CI/CD  
+- Detailed Extent / HTML Test Reports  
 
 📌 *Framework designed for scalability, reusability, and maintainability.*
+
+---
+
+## 🏆 Strengths & Traits
+
+- Strong Analytical & Debugging Skills  
+- Excellent Communication & Collaboration  
+- Quality-First Mindset
+- Experience in Client-Facing Projects
+- Fast Learner & Problem Solver  
+- Team Player & Continuous Learner  
+
+---
+
+## 📈 What I'm Working On
+
+- Building Hybrid Automation Frameworks  
+- Improving API Automation Coverage  
+- Enhancing CI/CD pipelines for test execution  
+
+⭐ *Passionate about delivering quality through automation and process excellence.*
 
 ---
 
