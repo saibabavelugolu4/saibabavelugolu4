@@ -2,11 +2,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Sai%20Baba%20Velugolu%20Venkata&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Sai%20Baba%20Velugolu%20Venkata&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer%20%7C%204%2B%20Years%20of%20Experience&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/saibabavelugolu4">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=%204+%2B%20years%20of%20experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=QA+Automation+Engineer;Manual+%26+Automation+Expert;Selenium+%7C+Java+%7C+Jenkins+%7C+API+Testing;%204+%2B%20Years%20of%20Experience;Always+Breaking+Software+to+Build+Quality" alt="Typing SVG"/>
 </a>
 
 <!-- SOCIAL LINKS -->
