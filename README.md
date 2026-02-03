@@ -24,14 +24,14 @@
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - **4+ years of hands-on experience** in Manual and Automation Testing of Web & API applications.
-- Strong understanding of **SDLC & STLC **  
+- Strong understanding of **SDLC & STLC**  
 - Expertise in **functional, regression, smoke, sanity, Integration & system testing** 
 - Specialized in **Selenium WebDriver, Java, TestNG, Maven**
 - Passionate about **automation frameworks & CI/CD pipelines**  
 - Experience working in **Agile/Scrum environments**
 - Experience in Framework development (POM, Data-Driven, Hybrid)
-- Good Knowledge in API Testing (Postman, REST Assured, SOAP UI)
-- Strong understanding of Test Frameworks (TestNG, JUnit, Cucumber)
+- Good Knowledge in **API Testing (Postman, REST Assured, SOAP UI)**
+- Strong understanding of **Test Frameworks (TestNG, JUnit, Cucumber)**
 - Azure DevOps for Test Management & Defect Tracking, Root Cause Analysis  
 
 Currently working at **Vedhas Technology Solutions Pvt Ltd**, contributing to high-quality, scalable, and reliable software for US and Indian clients.
