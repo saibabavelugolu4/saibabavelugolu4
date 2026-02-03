@@ -29,7 +29,7 @@
 - Specialized in **Selenium WebDriver, Java, TestNG, Maven**
 - Passionate about **automation frameworks & CI/CD pipelines**  
 - Experience working in **Agile/Scrum environments**
-- Experience in Framework development (POM, Data-Driven, Hybrid)
+- Experience in **Framework development (POM, Data-Driven, Hybrid)**
 - Good Knowledge in **API Testing (Postman, REST Assured, SOAP UI)**
 - Strong understanding of **Test Frameworks (TestNG, JUnit, Cucumber)**
 - Azure DevOps for Test Management & Defect Tracking, Root Cause Analysis  
