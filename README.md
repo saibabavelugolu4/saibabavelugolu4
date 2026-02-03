@@ -21,18 +21,18 @@
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - **4+ years of hands-on experience** in Manual and Automation Testing of Web & API applications.
-- Strong understanding of **SDLC & STLC**  
+- Strong understanding of **SDLC & STLC **  
 - Expertise in **functional, regression, smoke, sanity, Integration & system testing** 
 - Specialized in **Selenium WebDriver, Java, TestNG, Maven**
 - Passionate about **automation frameworks & CI/CD pipelines**  
 - Experience working in **Agile/Scrum environments**
-- Framework development (POM, Data-Driven, Hybrid)
-- Azure DevOps for Test Management & Defect Tracking & Root Cause Analysis  
-- API Testing (Postman, REST Assured, SOAP UI)
-- Test Frameworks (TestNG, JUnit, Cucumber)
+- Experience in Framework development (POM, Data-Driven, Hybrid)
+- Good Knowledge in API Testing (Postman, REST Assured, SOAP UI)
+- Strong understanding of Test Frameworks (TestNG, JUnit, Cucumber)
+- Azure DevOps for Test Management & Defect Tracking, Root Cause Analysis  
 
 Currently working at **Vedhas Technology Solutions Pvt Ltd**, contributing to high-quality, scalable, and reliable software for US and Indian clients.
 
@@ -150,6 +150,8 @@ Currently working at **Vedhas Technology Solutions Pvt Ltd**, contributing to hi
 - Fast Learner & Problem Solver  
 - Team Player & Continuous Learner  
 
+🔥 *Quality is never an accident; it is always the result of intelligent effort.*
+
 ---
 
 ## 📈 What I'm Working On
@@ -172,5 +174,5 @@ Currently working at **Vedhas Technology Solutions Pvt Ltd**, contributing to hi
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
 
-**⭐Testing is not about finding bugs, it’s about preventing them.❤️**
+**🌟Testing is not about finding bugs, it’s about preventing them.❤️**
 </div>
